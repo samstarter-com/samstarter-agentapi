@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SWI.SoftStock.ServerApps.DataAccess.Common2\SWI.SoftStock.ServerApps.DataAccess.Common2.csproj" />
+    <ProjectReference Include="..\SWI.SoftStock.ServerApps.DataModel2\SWI.SoftStock.ServerApps.DataModel2.csproj" />
+  </ItemGroup>
+
+</Project>
